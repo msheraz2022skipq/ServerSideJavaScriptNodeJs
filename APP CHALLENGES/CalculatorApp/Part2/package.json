@@ -1,0 +1,19 @@
+{
+  "name": "calculator-app-part1",
+  "version": "1.0.0",
+  "description": "Problem Statement -",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/calculatorApp.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^9.2.2"
+  }
+}
